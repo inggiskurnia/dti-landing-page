@@ -6,6 +6,7 @@ import CarouselPage from './components/CarouselPage.tsx'
 import Testimonials from './components/Testimonials.tsx'
 import Footer from './components/Footer.tsx'
 import GetInTouch from './components/GetInTouch.tsx'
+import Contact from './components/Contact.tsx'
 
 function App() {
 

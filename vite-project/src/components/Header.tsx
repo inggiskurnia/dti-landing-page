@@ -9,7 +9,7 @@ const Header:FC = () => {
                     <div className="flex gap-x-[40px]">
                         <a>About</a>
                         <a>Work</a>
-                        <a>Contact</a>
+                        <a href="./">Contact</a>
                     </div>
                 </nav>
             </header>
